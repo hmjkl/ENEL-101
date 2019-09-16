@@ -1,0 +1,1 @@
+sum(randi([1 6], 3, 1)) % We could also use cei(rand(1)*6)
